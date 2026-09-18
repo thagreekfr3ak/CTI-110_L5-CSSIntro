@@ -1,0 +1,39 @@
+/*--coffee-bean: #220901ff;
+--dark-garnet: #621708ff;
+--oxblood: #941b0cff;
+--rusty-spice: #bc3908ff;
+--orange: #f6aa1cff;*/
+
+header{
+    background-color: #db9834;
+    font-family:'Franklin Gothic Medium';
+    color:#bc3908ff;
+    font-size: 100px;
+    height: 210px
+}
+
+.subhead{
+    font-family:'Franklin Gothic Medium';
+    color:#f6aa1cff;
+}
+
+body {
+  background-color: #d2dbec;
+  font-family: "Brush Script MT";
+    color: #131212;
+  font-size: 30px;
+}
+
+
+.pic{
+    height: 500px;
+    width: 750px;
+}
+
+footer {
+  background-color: #d3830b;
+  font-family: "Brush Script MT";
+    color: #131212;
+  font-size: 25px;
+  height: 50px
+}
